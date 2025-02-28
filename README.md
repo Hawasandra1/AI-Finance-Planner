@@ -37,5 +37,5 @@ Ensure you have the following installed:
 ### 📥 Clone the Repository  
 
 ```bash
-git clone https://github.com/mendsalbert/AI-Financial-Planner.git
+git clone https://github.com/Hawasandra1/AI-Financial-Planner.git
 cd AI-Financial-Planner
