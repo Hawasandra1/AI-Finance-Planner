@@ -4,7 +4,7 @@
 
 This project is perfect for anyone looking to integrate **AI-driven financial management** into a Next.js application.  
 
-🚀 **Need help?** If you run into issues or need assistance, feel free to reach out via email.  
+🚀 **Need help?** If you run into issues or need assistance, feel free to reach out.
 
 ---
 
