@@ -11,7 +11,7 @@ This project is perfect for anyone looking to integrate **AI-driven financial ma
 ## ⚙️ Tech Stack  
 - **Next.js**  
 - **TypeScript**  
-- **OpenAI API**  
+- **DeepSeek API**  
 - **Tailwind CSS**  
 - **Neon DB** (Database)
 
